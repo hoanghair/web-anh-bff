@@ -106,4 +106,10 @@ body{
         display: none;
 
     }
+    #a{
+        padding: 0px 56px;
+    }
+    .mot {
+        float: none;
+    }
 }
